@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<city size="big">
+    <street name="Main Street">
+        <house>123</house>
+    </street>
+    <street name="Second Street">
+        <house>456</house>
+    </street>
+</city>
